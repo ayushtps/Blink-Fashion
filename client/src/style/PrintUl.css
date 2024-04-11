@@ -134,7 +134,7 @@ span {
     width: 455px;
     height: max-content;
     word-wrap: break-word;
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .btn-div{
