@@ -132,9 +132,9 @@ span {
 }
 .address {
     width: 455px;
-    height: max-content;
-    word-wrap: break-word;
-    /* text-align: justify; */
+     height: max-content;
+     word-wrap: break-word;
+     /* text-align: justify;  */
 }
 
 .btn-div{

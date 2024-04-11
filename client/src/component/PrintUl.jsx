@@ -59,7 +59,7 @@ function PrintUl() {
                             </div>
                             <div className="abc">
                                 <div className='image-div'> <img src={whatsapp} alt="" style={{ marginRight: '5px' }} /></div>
-                                <div>@blinkfashion45</div>
+                                <div>From:-9875012386</div>
                             </div>
                         </div>
                     </div>
