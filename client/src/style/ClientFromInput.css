@@ -1,0 +1,38 @@
+.input-div{
+    margin:10px 0;
+} 
+body{
+    height:100%;
+    background-color:#eeeeee;
+}
+.main-div1{
+    width:50%;
+    margin:200px auto;
+}
+.parent1 {
+    border: 2px solid black;
+    padding: 38px;
+}
+.container1{
+    padding: 30px;
+    background:#ffff;
+}
+.heading{
+    text-align:center;
+}
+.input{
+    margin-top:10px !important;
+}
+.labelforfrom{
+    font-weight:bold;
+    font-size:18px;
+}
+.printbtn{
+    border:none;
+    font-weight:bold;
+    font-size:17px;
+    background-color: #ffe3c7;
+    border: 1px solid #ffc388;
+    padding:10px 20px;
+    color:#808080;
+}
